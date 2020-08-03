@@ -1,0 +1,15 @@
+
+Starting Single threaded program. Current time:
+Thu Oct 11 20:17:13.530
+
+Single threaded program finished. Current time:
+Thu Oct 11 20:19:24.858
+
+Starting multi-threaded program. Current time:
+Thu Oct 11 20:19:24.927
+
+Multi threaded program finished. Current time:
+Thu Oct 11 20:19:41.548
+
+Matrices are same
+
